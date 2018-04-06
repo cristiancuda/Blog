@@ -1,0 +1,1 @@
+Blog system that allows users to publish blog text to a single page (a single page blog). The architecture to use is based on the old fashioned approach of embedding data from the database in the web pages at HTML generation time on the server.
